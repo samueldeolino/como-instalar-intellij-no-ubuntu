@@ -44,7 +44,7 @@ O IntelliJ IDEA é uma das IDE's (Ambiente de Desenvolvimento Integrado) mais po
     [Desktop Entry]
     Name=IntelliJ IDEA
     Comment=Edição Comunitária do IntelliJ IDEA
-    Exec=/opt/intellij-idea/bin/idea.sh
+    Exec=/opt/intellij-idea/bin/idea
     Icon=/opt/intellij-idea/bin/idea.png
     Terminal=false
     Type=Application
